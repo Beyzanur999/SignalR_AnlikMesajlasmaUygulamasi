@@ -20,18 +20,18 @@ Bu projenin amacı, istemciler arasında gerçek zamanlı iletişim kurulmasın�
 -Veritabanı olarak Entity Framework ile SQL Server kullanımı.
 ---
 ## Kullanılan Kütüphaneler
--Microsoft.AspNetCore.SignalR
--Microsoft.AspNetCore.SignalR.Client
--Microsoft.EntityFrameworkCore
--Microsoft.EntityFrameworkCore.SqlServer
--Microsoft.EntityFrameworkCore.Tools
--Microsoft.AspNetCore.Mvc
--Microsoft.Extensions.DependencyInjection
--Microsoft.AspNetCore.Http
--Microsoft.AspNetCore.Routing
--System.ComponentModel.DataAnnotations
--Microsoft.AspNetCore.StaticFiles
--Microsoft.AspNetCore.Hosting
--Microsoft.Extensions.Hosting
--Microsoft.NET.Sdk.Web
+-Microsoft.AspNetCore.SignalR.
+-Microsoft.AspNetCore.SignalR.Client.
+-Microsoft.EntityFrameworkCore.
+-Microsoft.EntityFrameworkCore.SqlServer.
+-Microsoft.EntityFrameworkCore.Tools.
+-Microsoft.AspNetCore.Mvc.
+-Microsoft.Extensions.DependencyInjection.
+-Microsoft.AspNetCore.Http.
+-Microsoft.AspNetCore.Routing.
+-System.ComponentModel.DataAnnotations.
+-Microsoft.AspNetCore.StaticFiles.
+-Microsoft.AspNetCore.Hosting.
+-Microsoft.Extensions.Hosting.
+-Microsoft.NET.Sdk.Web.
 ---
