@@ -1,10 +1,10 @@
 # Gerçek Zamanlı Anlık Mesajlaşma Uygulaması
 Bu proje, ASP.NET Core ve SignalR teknolojileri kullanılarak geliştirilmiş, kullanıcıların birbirleriyle gerçek zamanlı olarak mesajlaşabildiği basit bir anlık mesajlaşma uygulamasıdır.
 ---
-### Projenin Amacı
+## Projenin Amacı
 Bu projenin amacı, istemciler arasında gerçek zamanlı iletişim kurulmasını sağlayan bir sistem tasarlamaktır. Kullanıcılar bir arayüz üzerinden giriş yaparak, listedeki diğer kullanıcıları seçip onlarla anlık olarak mesajlaşabilmektedir.
 ---
-### Kullanılan Teknolojiler ve Kütüphaneler
+## Kullanılan Teknolojiler ve Kütüphaneler
 -ASP.NET Core MVC – Web uygulamasının temel çatısını oluşturur.
 -SignalR – Gerçek zamanlı veri iletimi ve istemciler arası iletişimi sağlar.
 -Entity Framework Core – Veritabanı işlemleri ve ORM (Object-Relational Mapping) için kullanılır.
@@ -12,14 +12,14 @@ Bu projenin amacı, istemciler arasında gerçek zamanlı iletişim kurulmasın�
 -Bootstrap (isteğe bağlı) – Basit ve duyarlı kullanıcı arayüzü oluşturmak için (kullanıldıysa).
 -Visual Studio / .NET CLI – Geliştirme ortamı ve proje yönetimi.
 ---
-### Özellikler
+## Özellikler
 -Kullanıcılar giriş yapmadan doğrudan kullanıcı adıyla mesajlaşabilir.
 -Gerçek zamanlı mesaj gönderme ve alma (SignalR ile).
 -Kullanıcı seçimi ve birebir mesajlaşma desteği.
 -Mesajların veritabanında kalıcı olarak saklanması.
 -Veritabanı olarak Entity Framework ile SQL Server kullanımı.
 ---
-### Kullanılan Kütüphaneler
+## Kullanılan Kütüphaneler
 -Microsoft.AspNetCore.SignalR
 -Microsoft.AspNetCore.SignalR.Client
 -Microsoft.EntityFrameworkCore
