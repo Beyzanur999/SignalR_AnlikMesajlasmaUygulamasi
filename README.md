@@ -1,5 +1,5 @@
 # Gerçek Zamanlı Anlık Mesajlaşma Uygulaması
-Bu proje, ASP.NET Core ve SignalR teknolojileri kullanılarak geliştirilmiş, kullanıcıların birbirleriyle gerçek zamanlı olarak mesajlaşabildiği basit bir anlık mesajlaşma uygulamasıdır.
+Bu proje, ASP.NET Core ve SignalR teknolojileri kullanılarak geliştirilmiş, kullanıcıların birbirleriyle gerçek zamanlı olarak mesajlaşabildiği basit bir anlık mesajlaşma uygulamasıdır. Lütfen appsetting dosyanızda kendi server isminizi eklemeyi unutmayın.
 ---
 ## Projenin Amacı
 Bu projenin amacı, istemciler arasında gerçek zamanlı iletişim kurulmasını sağlayan bir sistem tasarlamaktır. Kullanıcılar bir arayüz üzerinden giriş yaparak, listedeki diğer kullanıcıları seçip onlarla anlık olarak mesajlaşabilmektedir.
